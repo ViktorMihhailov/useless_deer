@@ -1,329 +1,236 @@
 
 pack.png
-size: 2048,2048
+size: 1021,1010
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
-ButtonSpellPressed
+barrack
   rotate: false
-  xy: 1947, 1294
-  size: 36, 137
-  split: 14, 14, 13, 15
-  orig: 36, 137
+  xy: 767, 318
+  size: 250, 150
+  orig: 250, 150
   offset: 0, 0
   index: -1
-armyIcon
+car
   rotate: false
-  xy: 1481, 2
-  size: 149, 147
-  orig: 149, 147
+  xy: 801, 470
+  size: 158, 116
+  orig: 158, 116
   offset: 0, 0
   index: -1
-balloon
+cloud2Night
   rotate: false
-  xy: 2, 321
-  size: 455, 613
-  orig: 455, 613
+  xy: 2, 13
+  size: 93, 59
+  orig: 93, 59
   offset: 0, 0
   index: -1
-balloon2
+fire
   rotate: false
-  xy: 459, 255
-  size: 365, 618
-  orig: 365, 618
+  xy: 285, 22
+  size: 265, 252
+  orig: 265, 252
   offset: 0, 0
   index: -1
-bush1
+glow
   rotate: false
-  xy: 1702, 1804
-  size: 292, 241
-  orig: 292, 241
+  xy: 678, 336
+  size: 42, 42
+  orig: 42, 42
   offset: 0, 0
   index: -1
-bush2
+goldenSheep
   rotate: false
-  xy: 1034, 39
-  size: 281, 186
-  orig: 281, 186
+  xy: 97, 6
+  size: 81, 66
+  orig: 81, 66
   offset: 0, 0
   index: -1
-bush3
+groundGrass
   rotate: false
-  xy: 1516, 427
-  size: 295, 200
-  orig: 295, 200
+  xy: 303, 276
+  size: 373, 102
+  orig: 373, 102
   offset: 0, 0
   index: -1
-buttonbg
+hill1
   rotate: false
-  xy: 1813, 428
-  size: 106, 106
-  split: 47, 47, 47, 47
-  orig: 106, 106
+  xy: 705, 118
+  size: 305, 97
+  orig: 305, 97
   offset: 0, 0
   index: -1
-cloud1
+hill1Night
   rotate: false
-  xy: 2, 123
-  size: 406, 196
-  orig: 406, 196
+  xy: 705, 217
+  size: 308, 99
+  orig: 308, 99
   offset: 0, 0
   index: -1
-cloud2
+hill2Night
   rotate: false
-  xy: 410, 120
-  size: 333, 133
-  orig: 333, 133
+  xy: 414, 588
+  size: 514, 231
+  orig: 514, 231
   offset: 0, 0
   index: -1
-dialog
+hill3Night
   rotate: false
-  xy: 826, 227
-  size: 471, 204
-  split: 228, 229, 81, 84
-  pad: 228, 230, 81, 85
-  orig: 471, 204
+  xy: 414, 821
+  size: 581, 189
+  orig: 581, 189
   offset: 0, 0
   index: -1
-doghouse
+hill4Night
   rotate: false
-  xy: 1790, 158
-  size: 256, 267
-  orig: 256, 267
+  xy: 303, 483
+  size: 496, 103
+  orig: 496, 103
   offset: 0, 0
   index: -1
-fence
+hill5Night
   rotate: false
-  xy: 1813, 536
-  size: 191, 152
-  orig: 191, 152
+  xy: 303, 380
+  size: 462, 101
+  orig: 462, 101
   offset: 0, 0
   index: -1
-grayButton
+lamp1
   rotate: false
-  xy: 1996, 1891
-  size: 34, 154
-  split: 11, 11, 11, 11
-  orig: 34, 154
+  xy: 930, 700
+  size: 38, 119
+  orig: 38, 119
   offset: 0, 0
   index: -1
-ground2
+miniPond
   rotate: false
-  xy: 2, 1804
-  size: 1698, 241
-  orig: 1698, 241
+  xy: 303, 596
+  size: 74, 29
+  orig: 74, 29
   offset: 0, 0
   index: -1
-house10
+rainDrop
   rotate: false
-  xy: 587, 1342
-  size: 677, 460
-  orig: 677, 460
+  xy: 285, 309
+  size: 13, 28
+  orig: 13, 28
   offset: 0, 0
   index: -1
-house11
+sheep
   rotate: false
-  xy: 2, 936
-  size: 583, 866
-  orig: 583, 866
-  offset: 0, 0
-  index: -1
-house5
-  rotate: false
-  xy: 1266, 1365
-  size: 554, 437
-  orig: 554, 437
-  offset: 0, 0
-  index: -1
-house6
-  rotate: false
-  xy: 587, 875
-  size: 650, 465
-  orig: 650, 465
-  offset: 0, 0
-  index: -1
-house7
-  rotate: false
-  xy: 1266, 971
-  size: 438, 392
-  orig: 438, 392
-  offset: 0, 0
-  index: -1
-hp
-  rotate: false
-  xy: 410, 259
-  size: 12, 60
-  split: 0, 0, 0, 0
-  orig: 12, 60
-  offset: 0, 0
-  index: -1
-hpbar
-  rotate: false
-  xy: 1921, 428
-  size: 88, 106
-  split: 40, 40, 35, 35
-  orig: 88, 106
-  offset: 0, 0
-  index: -1
-menuBtn
-  rotate: false
-  xy: 2, 28
-  size: 252, 93
-  orig: 252, 93
-  offset: 0, 0
-  index: -1
-menuSliderSwitch
-  rotate: false
-  xy: 459, 885
-  size: 118, 49
-  split: 42, 43, 0, 0
-  orig: 118, 49
-  offset: 0, 0
-  index: -1
-menuX
-  rotate: false
-  xy: 256, 26
-  size: 96, 95
-  orig: 96, 95
-  offset: 0, 0
-  index: -1
-menuXPressed
-  rotate: false
-  xy: 1947, 1220
-  size: 73, 72
-  orig: 73, 72
-  offset: 0, 0
-  index: -1
-miniSliderb
-  rotate: false
-  xy: 1394, 899
-  size: 82, 70
-  split: 29, 29, 29, 29
-  orig: 82, 70
-  offset: 0, 0
-  index: -1
-pausePlay
-  rotate: false
-  xy: 1516, 151
-  size: 272, 274
-  orig: 272, 274
-  offset: 0, 0
-  index: -1
-post
-  rotate: false
-  xy: 1803, 690
-  size: 176, 295
-  orig: 176, 295
-  offset: 0, 0
-  index: -1
-restartLvl
-  rotate: false
-  xy: 1772, 11
-  size: 137, 138
-  orig: 137, 138
-  offset: 0, 0
-  index: -1
-s1
-  rotate: false
-  xy: 1319, 885
-  size: 73, 84
-  orig: 73, 84
-  offset: 0, 0
-  index: -1
-s2
-  rotate: false
-  xy: 1822, 1367
-  size: 84, 64
-  orig: 84, 64
-  offset: 0, 0
-  index: -1
-s5
-  rotate: false
-  xy: 1239, 885
-  size: 78, 84
-  orig: 78, 84
-  offset: 0, 0
-  index: -1
-santaFront
-  rotate: false
-  xy: 826, 433
-  size: 365, 440
-  orig: 365, 440
-  offset: 0, 0
-  index: -1
-sleigh
-  rotate: false
-  xy: 745, 58
-  size: 287, 167
-  orig: 287, 167
-  offset: 0, 0
-  index: -1
-toMenu
-  rotate: false
-  xy: 1632, 10
-  size: 138, 139
-  orig: 138, 139
-  offset: 0, 0
-  index: -1
-tree1
-  rotate: false
-  xy: 1706, 987
-  size: 239, 376
-  orig: 239, 376
-  offset: 0, 0
-  index: -1
-tree2
-  rotate: false
-  xy: 1193, 444
-  size: 321, 429
-  orig: 321, 429
+  xy: 180, 2
+  size: 80, 70
+  orig: 80, 70
   offset: 0, 0
   index: -1
 tree3
   rotate: false
-  xy: 1516, 629
-  size: 285, 340
-  orig: 285, 340
+  xy: 2, 339
+  size: 299, 286
+  orig: 299, 286
   offset: 0, 0
   index: -1
-tree4
+treeFront1
   rotate: false
-  xy: 1822, 1433
-  size: 206, 369
-  orig: 206, 369
+  xy: 2, 74
+  size: 281, 263
+  orig: 281, 263
   offset: 0, 0
   index: -1
-tw
+treeFront2
   rotate: false
-  xy: 1299, 227
-  size: 215, 215
-  orig: 215, 215
+  xy: 2, 627
+  size: 410, 383
+  orig: 410, 383
   offset: 0, 0
   index: -1
-zibil1
+ufocrash
   rotate: false
-  xy: 1911, 3
-  size: 131, 153
-  orig: 131, 153
+  xy: 705, 12
+  size: 246, 104
+  orig: 246, 104
   offset: 0, 0
   index: -1
-zibil2
+windMain
   rotate: false
-  xy: 1317, 42
-  size: 162, 183
-  orig: 162, 183
+  xy: 997, 927
+  size: 24, 83
+  orig: 24, 83
+  offset: 0, 0
+  index: -1
+windmillMain
+  rotate: false
+  xy: 552, 39
+  size: 151, 235
+  orig: 151, 235
   offset: 0, 0
   index: -1
 
 pack2.png
-size: 128,256
+size: 940,252
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
-santaSide
+cabinNight
   rotate: false
-  xy: 2, 2
-  size: 119, 174
-  orig: 119, 174
+  xy: 2, 88
+  size: 225, 164
+  orig: 225, 164
+  offset: 0, 0
+  index: -1
+cloud1Night
+  rotate: false
+  xy: 458, 139
+  size: 177, 113
+  orig: 177, 113
+  offset: 0, 0
+  index: -1
+heli
+  rotate: false
+  xy: 229, 144
+  size: 227, 108
+  orig: 227, 108
+  offset: 0, 0
+  index: -1
+ninja
+  rotate: false
+  xy: 370, 17
+  size: 122, 120
+  orig: 122, 120
+  offset: 0, 0
+  index: -1
+treeBack1
+  rotate: false
+  xy: 637, 101
+  size: 160, 151
+  orig: 160, 151
+  offset: 0, 0
+  index: -1
+treeback2
+  rotate: false
+  xy: 494, 27
+  size: 117, 110
+  orig: 117, 110
+  offset: 0, 0
+  index: -1
+watertower
+  rotate: false
+  xy: 799, 18
+  size: 141, 234
+  orig: 141, 234
+  offset: 0, 0
+  index: -1
+windRotor
+  rotate: false
+  xy: 613, 4
+  size: 99, 95
+  orig: 99, 95
+  offset: 0, 0
+  index: -1
+windmillRotating
+  rotate: false
+  xy: 229, 2
+  size: 139, 140
+  orig: 139, 140
   offset: 0, 0
   index: -1
